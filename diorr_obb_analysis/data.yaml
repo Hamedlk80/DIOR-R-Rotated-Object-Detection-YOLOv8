@@ -1,0 +1,5 @@
+path: /content/diorr_obb
+train: images/train
+val: images/val
+task: obb
+names: ['airplane', 'airport', 'baseballfield', 'basketballcourt', 'bridge', 'chimney', 'dam', 'Expressway-Service-area', 'Expressway-toll-station', 'golffield', 'groundtrackfield', 'harbor', 'ship', 'overpass', 'stadium', 'storagetank', 'tenniscourt', 'trainstation', 'vehicle', 'windmill']

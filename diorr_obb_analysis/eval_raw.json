@@ -1,0 +1,26 @@
+{
+  "names": {
+    "0": "airplane",
+    "1": "airport",
+    "2": "baseballfield",
+    "3": "basketballcourt",
+    "4": "bridge",
+    "5": "chimney",
+    "6": "dam",
+    "7": "Expressway-Service-area",
+    "8": "Expressway-toll-station",
+    "9": "golffield",
+    "10": "groundtrackfield",
+    "11": "harbor",
+    "12": "ship",
+    "13": "overpass",
+    "14": "stadium",
+    "15": "storagetank",
+    "16": "tenniscourt",
+    "17": "trainstation",
+    "18": "vehicle",
+    "19": "windmill"
+  },
+  "mAP50-95": 0.7139994449081258,
+  "mAP50": 0.8953587713517275
+}
